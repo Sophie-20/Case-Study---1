@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(255, 255, 255) ;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+}
+.heading_div {
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Raleway', sans-serif;
+}
+.header_div img{
+    width: 100px;
+}
+img{
+border-radius: 20px;
+width: 300px;
+text-align: center;
+
+}
+.copyright_footer {
+    background-color: rgb(220, 225, 205);
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: 18px;
+    position: fixed;
+    bottom: 0;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;    
+}
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px grey;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+#logo{
+    border-radius: 150px;
+    width: 100px;
+}
+h4{
+    font-size: 30px;
+}
+h5{
+    font-size: 20px;
+}
+#shoe{
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 150px;
+}
